@@ -88,3 +88,7 @@ while True:
         break
 
 print("hello world")
+
+print("Hello Jerin and Joshua")
+
+print("Some text")
