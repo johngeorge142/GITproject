@@ -86,3 +86,5 @@ while True:
         select()
     except EOFError:
         break
+
+print("hello world")
